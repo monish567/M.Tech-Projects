@@ -1,0 +1,48 @@
+Innings 1
+BATTING                       R       B       M       4s      6s      SR      
+Imam-ul-Haq        not out    2       11              0       0       18.18   
+Fakhar Zaman       not out    22      16              2       1       137.5   
+Haris Sohail       not out    8       11              1       0       72.73   
+Babar Azam         not out    19      32              2       0       59.38   
+Sarfaraz Ahmed     not out    8       12              1       0       66.67   
+Imad Wasim         not out    1       3               0       0       33.33   
+Shadab Khan        not out    0       1               0       0       0.0     
+Hasan Ali          not out    1       4               0       0       25.0    
+Mohammad Hafeez    not out    16      24              2       0       66.67   
+Mohammad Amir      not out    3       5       0       0       0       60.0    
+Wahab Riaz         not out    18      10              1       2       180.0   
+
+Extras                       4 (nb 2, w 2)
+Total                         102/10 (21.3 Overs, RR:4.79)
+Fall of Wickets: (Imam-ul-Haq, 2.6 ov), (Fakhar Zaman, 5.5 ov), (Haris Sohail, 9.4 ov), (Babar Azam, 13.1 ov), (Sarfaraz Ahmed, 16.1 ov), (Imad Wasim, 16.6 ov), (Shadab Khan, 17.3 ov), (Hasan Ali, 18.3 ov), (Mohammad Hafeez, 19.3 ov), (Wahab Riaz, 21.4 ov), 
+
+
+BOWLING      O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Cottrell     4.0     0       17      1       4.25    14      3       0       1       0       
+Russell      3.0     0       4       2       1.33    10      0       0       0       0       
+Brathwaite   4.0     0       14      0       3.5     12      1       0       0       0       
+Holder       4.5     0       39      3       8.07    11      2       3       0       0       
+Thomas       5.4     0       24      4       4.24    12      3       0       1       2       
+
+
+
+Innings 2
+BATTING               R       B       M       4s      6s      SR      
+Hope       not out    11      17              1       0       64.71   
+Bravo      not out    0       4               0       0       0.0     
+Gayle      not out    50      34              6       3       147.06  
+Hetmyer    not out    7       8       0       0       0       87.5    
+Pooran     not out    34      19      0       4       2       178.95  
+
+Extras               16 (lb 5, w 11)
+Total                 118/3 (13.4 Overs, RR:8.81)
+Fall of Wickets: (Hope, 4.3 ov), (Bravo, 6.2 ov), (Gayle, 10.5 ov), (Bairstow, 0.2 ov), (Roy, 18.4 ov), (Root, 19.1 ov), (Morgan, 36.5 ov), (Buttler, 41.2 ov), (Ali, 43.6 ov), (Woakes, 47.3 ov), (Stokes, 48.6 ov), 
+
+
+BOWLING         O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Mohammad Amir   6.0     0       25      3       4.17    14      3       0       1       0       
+Hasan Ali       4.0     0       38      0       9.5     9       4       2       1       0       
+Wahab Riaz      3.4     0       39      0       10.64   9       4       3       1       0       
+
+
+

@@ -1,0 +1,58 @@
+Innings 1
+BATTING                                                             R       B       M       4s      6s      SR      
+Karunaratne   c Najibullah Zadran b Mohammad Nabi                   30      45      57      3       0       66.67   
+Thirimanne    b Mohammad Nabi                                       24      32      39      1       0       75.0    
+Mendis        c Rahmat Shah b Mohammad Nabi                         2       2       4       0       0       100.0   
+Mathews       c Rahmat Shah b Mohammad Nabi                         0       2       5       0       0       0.0     
+de Silva      c †Mohammad Shahzad b Hamid Hassan                  0       4       7       0       0       0.0     
+NLTC Perera   run out (Hashmatullah Shahidi/†Mohammad Shahzad)    2       4       12      0       0       50.0    
+Udana         b Dawlat Zadran                                       10      21      22      0       1       47.62   
+MDKJ Perera   c †Mohammad Shahzad b Rashid Khan                   76      80      150     8       0       95.0    
+Malinga       b Dawlat Zadran                                       4       14      15      1       0       28.57   
+Lakmal         not out                                              15      13      0       2       0       115.38  
+Pradeep       b Rashid Khan                                         0       4       6       0       0       0.0     
+
+Extras                                                             38 (lb 10, nb 6, w 22)
+Total                                                               201/10 (36.5 Overs, RR:5.51)
+Fall of Wickets: (Karunaratne, 13.1 ov), (Thirimanne, 21.2 ov), (Mendis, 21.4 ov), (Mathews, 21.6 ov), (de Silva, 22.6 ov), (NLTC Perera, 25.4 ov), (Udana, 31.3 ov), (MDKJ Perera, 32.2 ov), (Malinga, 35.6 ov), (Pradeep, 36.5 ov), 
+
+
+BOWLING            O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Mujeeb Ur Rahman   3.0     0       18      0       6.0     8       3       0       1       0       
+Gulbadin Naib      4.0     0       30      0       7.5     5       3       0       2       6       
+Hamid Hassan       7.0     0       43      1       6.14    14      4       0       10      0       
+Mohammad Nabi      9.0     0       29      5       3.22    21      0       1       1       0       
+Dawlat Zadran      6.0     0       27      2       4.5     16      5       0       7       0       
+Rashid Khan        7.5     0       16      2       2.04    29      0       0       1       0       
+
+
+
+Innings 2
+BATTING                                              R       B       M       4s      6s      SR      
+Mohammad Shahzad       c Karunaratne b Malinga       7       12      24      1       0       58.33   
+Rahmat Shah            c Mathews b Udana             2       11      18      0       0       18.18   
+Hazratullah Zazai      c NLTC Perera b Pradeep       30      25      48      3       1       120.0   
+Hashmatullah Shahidi   c †MDKJ Perera b Pradeep    4       17      24      0       0       23.53   
+Mohammad Nabi          b NLTC Perera                 11      16      21      1       0       68.75   
+Gulbadin Naib          lbw b Pradeep                 23      32      56      2       0       71.88   
+Rashid Khan            b Pradeep                     2       4       7       0       0       50.0    
+Dawlat Zadran          b Malinga                     6       18      25      1       0       33.33   
+Najibullah Zadran      run out (Karunaratne)         39      55      92      5       0       70.91   
+Mujeeb Ur Rahman        not out                      1       1       0       0       0       100.0   
+Hamid Hassan            not out                      6       4       0       0       1       150.0   
+
+Extras                                              41 (b 2, lb 8, nb 5, w 26)
+Total                                                172/9 (32.3 Overs, RR:5.33)
+Fall of Wickets: (Mohammad Shahzad, 4.4 ov), (Rahmat Shah, 7.5 ov), (Hazratullah Zazai, 8.4 ov), (Hashmatullah Shahidi, 12.5 ov), (Mohammad Nabi, 13.4 ov), (Gulbadin Naib, 24.5 ov), (Rashid Khan, 26.1 ov), (Dawlat Zadran, 30.4 ov), (Najibullah Zadran, 31.6 ov), (Fakhar Zaman, 14.1 ov), (Imam-ul-Haq, 20.1 ov), (Babar Azam, 32.5 ov), (Mohammad Hafeez, 42.4 ov), (Asif Ali, 46.1 ov), (Sarfaraz Ahmed, 47.2 ov), (Wahab Riaz, 47.5 ov), (Shoaib Malik, 49.1 ov), 
+
+
+BOWLING       O       M       R       W       ECON    0s      4s      6s      WD      NB      
+NLTC Perera   4.0     0       17      1       4.25    11      2       0       2       0       
+de Silva      1.0     0       7       0       7.0     1       1       0       0       0       
+Pradeep       9.0     0       23      4       2.56    31      3       0       8       0       
+Lakmal        6.0     0       25      0       4.17    20      2       1       2       0       
+Udana         6.0     0       23      2       3.83    17      1       0       0       5       
+Malinga       6.3     0       36      2       5.54    16      4       1       3       0       
+
+
+

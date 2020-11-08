@@ -1,0 +1,56 @@
+Innings 1
+BATTING                                           R       B       M       4s      6s      SR      
+Warner    c Root b Ali                            53      61      95      6       0       86.89   
+Khawaja   b Stokes                                23      29      32      1       0       79.31   
+Finch     c Woakes b Archer                       100     116     144     11      2       86.21   
+Maxwell   c †Buttler b Wood                     12      8       14      1       1       150.0   
+Stoinis    not out                                8       15      0       1       0       53.33   
+Smith     run out (Bairstow/Rashid/†Buttler)    37      34      17      5       0       108.82  
+Cummins   c †Buttler b Woakes                   5       5       8       1       0       100.0   
+Starc      not out                                4       6       0       0       0       66.67   
+Carey      not out                                34      26      0       4       0       130.77  
+
+Extras                                           8 (lb 4, w 4)
+Total                                             284/7 (50.0 Overs, RR:5.68)
+Fall of Wickets: (Warner, 22.4 ov), (Khawaja, 32.2 ov), (Finch, 35.3 ov), (Maxwell, 38.2 ov), (Smith, 41.5 ov), (Smith, 45.4 ov), (Cummins, 47.1 ov), 
+
+
+BOWLING  O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Ali      6.0     0       42      1       7.0     10      1       2       0       0       
+Rashid   10.0    0       48      1       4.8     25      5       0       0       0       
+Wood     9.0     0       57      1       6.33    22      9       0       2       0       
+Woakes   10.0    0       45      2       4.5     24      6       0       1       0       
+Archer   9.0     0       55      1       6.11    26      7       1       1       0       
+Stokes   6.0     0       29      1       4.83    12      2       0       0       0       
+
+
+
+Innings 2
+BATTING                                R       B       M       4s      6s      SR      
+Vince      b Behrendorff               0       2       2       0       0       0.0     
+Root       lbw b Starc                 8       9       16      2       0       88.89   
+Morgan     c Cummins b Starc           4       7       13      1       0       57.14   
+Bairstow   c Cummins b Behrendorff     27      39      68      5       0       69.23   
+Buttler    c Khawaja b Stoinis         25      27      60      2       0       92.59   
+Stokes     b Starc                     89      115     138     8       2       77.39   
+Ali        c †Carey b Behrendorff    6       9       14      1       0       66.67   
+Woakes     c Finch b Behrendorff       26      34      64      2       0       76.47   
+Archer     c Warner b Behrendorff      1       4       10      0       0       25.0    
+Wood        not out                    1       2       0       0       0       50.0    
+Rashid     c Stoinis b Starc           25      20      24      3       1       125.0   
+
+Extras                                18 (b 1, lb 5, w 12)
+Total                                  230/10 (44.4 Overs, RR:5.18)
+Fall of Wickets: (Vince, 0.2 ov), (Root, 3.3 ov), (Morgan, 5.5 ov), (Bairstow, 13.5 ov), (Buttler, 27.2 ov), (Stokes, 36.6 ov), (Ali, 39.3 ov), (Woakes, 41.3 ov), (Archer, 43.3 ov), (Rashid, 44.4 ov), (Liton Das, 4.2 ov), (Tamim Iqbal, 16.6 ov), (Shakib Al Hasan, 29.2 ov), (Soumya Sarkar, 31.6 ov), (Mahmudullah, 42.6 ov), (Mushfiqur Rahim, 48.3 ov), (Mosaddek Hossain, 49.6 ov), 
+
+
+BOWLING       O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Maxwell       2.0     0       15      0       7.5     7       0       2       0       0       
+Stoinis       7.0     0       28      1       4.0     14      2       0       1       0       
+Cummins       8.0     0       40      0       5.0     24      7       0       1       0       
+Lyon          9.0     0       43      0       4.78    23      2       1       0       0       
+Behrendorff   10.0    0       43      5       4.3     27      8       0       1       0       
+Starc         8.4     0       43      4       4.96    19      5       0       0       0       
+
+
+

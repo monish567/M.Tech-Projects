@@ -1,0 +1,48 @@
+Innings 1
+BATTING                   R       B       M       4s      6s      SR      
+Karunaratne    not out    10      17              2       0       58.82   
+MDKJ Perera    not out    18      14              3       0       128.57  
+Mendis         not out    3       13              0       0       23.08   
+Fernando       not out    20      21              4       0       95.24   
+Thirimanne     not out    53      68              4       0       77.94   
+Mathews        not out    113     127             10      2       88.98   
+NLTC Perera    not out    2       3               0       0       66.67   
+Udana          not out    1       1       0       0       0       100.0   
+de Silva       not out    29      36      0       1       0       80.56   
+
+Extras                   15 (b 4, lb 2, nb 1, w 8)
+Total                     264/7 (50.0 Overs, RR:5.28)
+Fall of Wickets: (Karunaratne, 3.4 ov), (MDKJ Perera, 7.1 ov), (Mendis, 10.4 ov), (Fernando, 11.4 ov), (Thirimanne, 37.5 ov), (Mathews, 48.2 ov), (NLTC Perera, 49.2 ov), 
+
+
+BOWLING         O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Jadeja          10.0    0       40      1       4.0     28      1       2       0       0       
+Kuldeep Yadav   10.0    0       57      1       5.7     17      6       0       1       0       
+Pandya          10.0    0       48      1       4.8     18      4       0       1       1       
+Bumrah          10.0    0       35      3       3.5     28      3       0       2       0       
+Kumar           10.0    0       69      1       6.9     18      10      0       4       0       
+
+
+
+Innings 2
+BATTING              R       B       M       4s      6s      SR      
+Sharma    not out    103     94              14      2       109.57  
+Rahul     not out    111     118             11      1       94.07   
+Pant      not out    4       4               1       0       100.0   
+Kohli     not out    34      41      0       3       0       82.93   
+Pandya    not out    7       4       0       1       0       175.0   
+
+Extras              23 (lb 4, nb 2, w 17)
+Total                282/3 (43.3 Overs, RR:6.51)
+Fall of Wickets: (Sharma, 30.1 ov), (Rahul, 40.6 ov), (Pant, 41.6 ov), (Fakhar Zaman, 7.2 ov), (Babar Azam, 31.6 ov), (Imam-ul-Haq, 41.5 ov), (Mohammad Hafeez, 42.4 ov), (Haris Sohail, 43.5 ov), (Wahab Riaz, 46.5 ov), (Shadab Khan, 47.1 ov), (Imad Wasim, 49.4 ov), (Mohammad Amir, 49.5 ov), 
+
+
+BOWLING       O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Rajitha       8.0     0       47      1       5.88    21      8       0       0       0       
+de Silva      6.0     0       50      0       8.33    12      3       3       1       0       
+NLTC Perera   10.0    0       34      0       3.4     26      1       0       0       0       
+Malinga       10.0    0       78      1       7.8     17      12      0       4       0       
+Udana         9.3     0       50      1       5.26    23      6       0       0       0       
+
+
+

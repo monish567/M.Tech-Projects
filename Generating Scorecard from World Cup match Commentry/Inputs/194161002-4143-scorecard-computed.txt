@@ -1,0 +1,58 @@
+Innings 1
+BATTING                R       B       M       4s      6s      SR      
+Bairstow    not out    0       1               0       0       0.0     
+Roy         not out    54      53              8       0       101.89  
+Root        not out    51      59              5       0       86.44   
+Morgan      not out    57      60              4       3       95.0    
+Buttler     not out    18      16              0       0       112.5   
+Ali         not out    3       9               0       0       33.33   
+Woakes      not out    13      14              1       0       92.86   
+Stokes      not out    89      79              9       0       112.66  
+Archer      not out    7       3       0       1       0       233.33  
+Plunkett    not out    9       6       0       1       0       150.0   
+
+Extras                10 (lb 2, w 8)
+Total                  311/8 (50.0 Overs, RR:6.22)
+Fall of Wickets: (Bairstow, 0.2 ov), (Roy, 18.4 ov), (Root, 19.1 ov), (Morgan, 36.5 ov), (Buttler, 41.2 ov), (Ali, 43.6 ov), (Woakes, 47.3 ov), (Stokes, 48.6 ov), 
+
+
+BOWLING       O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Duminy        2.0     0       14      0       7.0     2       1       0       0       0       
+Markram       3.0     0       16      0       5.33    8       1       1       0       0       
+Pretorius     7.0     0       42      0       6.0     13      5       0       0       0       
+Imran Tahir   10.0    0       61      2       6.1     16      4       0       0       0       
+Phehlukwayo   8.0     0       40      1       5.0     17      4       0       4       0       
+Ngidi         10.0    0       64      3       6.4     22      6       2       2       0       
+Rabada        10.0    0       64      2       6.4     18      8       0       2       0       
+
+
+
+Innings 2
+BATTING                      R       B       M       4s      6s      SR      
+Markram           not out    11      12              2       0       91.67   
+du Plessis        not out    5       7               1       0       71.43   
+de Kock           not out    68      74              6       2       91.89   
+Duminy            not out    8       11              1       0       72.73   
+Pretorius         not out    1       1       0       0       0       100.0   
+van der Dussen    not out    49      61              4       1       80.33   
+Phehlukwayo       not out    24      25              4       0       96.0    
+Amla              not out    13      23              1       0       56.52   
+Ngidi             not out    6       5       0       0       1       120.0   
+Rabada            not out    11      19              2       0       57.89   
+Imran Tahir       not out    0       1               0       0       0.0     
+
+Extras                      10 (b 4, lb 5, w 1)
+Total                        206/10 (39.5 Overs, RR:5.22)
+Fall of Wickets: (Markram, 7.4 ov), (du Plessis, 9.3 ov), (de Kock, 22.6 ov), (Duminy, 25.5 ov), (van der Dussen, 26.2 ov), (van der Dussen, 31.5 ov), (Phehlukwayo, 34.1 ov), (Amla, 38.1 ov), (Rabada, 39.4 ov), (Imran Tahir, 39.5 ov), 
+
+
+BOWLING    O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Woakes     5.0     0       24      0       4.8     16      4       0       0       0       
+Ali        10.0    0       63      1       6.3     23      6       2       0       0       
+Archer     7.0     0       26      3       3.71    20      4       0       1       0       
+Rashid     8.0     0       35      1       4.38    24      4       0       0       0       
+Plunkett   7.0     0       36      3       5.14    16      1       2       0       0       
+Stokes     2.5     1       12      2       4.24    8       2       0       0       0       
+
+
+

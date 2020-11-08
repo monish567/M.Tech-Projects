@@ -1,0 +1,55 @@
+Innings 1
+BATTING                  R       B       M       4s      6s      SR      
+Gayle         not out    7       18              1       0       38.89   
+Lewis         not out    58      78              6       2       74.36   
+Hetmyer       not out    39      31              3       2       125.81  
+Hope          not out    77      92              6       2       83.7    
+Pooran        not out    58      43      0       6       1       134.88  
+Holder        not out    45      34              1       4       132.35  
+Brathwaite    not out    14      4       0       2       1       350.0   
+
+Extras                  13 (lb 4, w 9)
+Total                    311/6 (50.0 Overs, RR:6.22)
+Fall of Wickets: (Gayle, 5.3 ov), (Lewis, 24.5 ov), (Hetmyer, 34.5 ov), (Hope, 37.4 ov), (Holder, 49.1 ov), (Holder, 49.2 ov), 
+
+
+BOWLING            O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Gulbadin Naib      3.0     0       18      0       6.0     7       1       1       0       0       
+Mohammad Nabi      10.0    0       56      1       5.6     27      4       3       0       0       
+Rashid Khan        10.0    0       50      1       5.0     25      4       1       2       0       
+Mujeeb Ur Rahman   10.0    0       50      0       5.0     28      6       1       2       0       
+Dawlat Zadran      9.0     0       68      2       7.56    22      6       4       5       0       
+Sayed Shirzad      8.0     0       56      2       7.0     15      4       2       0       0       
+
+
+
+Innings 2
+BATTING                          R       B       M       4s      6s      SR      
+Gulbadin Naib         not out    5       6               1       0       83.33   
+Rahmat Shah           not out    62      78              10      0       79.49   
+Najibullah Zadran     not out    31      38      0       1       1       81.58   
+Ikram Alikhil         not out    84      91              8       0       92.31   
+Mohammad Nabi         not out    2       6               0       0       33.33   
+Samiullah Shinwari    not out    6       9               0       0       66.67   
+Asghar Afghan         not out    39      32              4       1       121.88  
+Dawlat Zadran         not out    1       2               0       0       50.0    
+Rashid Khan           not out    9       16              0       1       56.25   
+Mujeeb Ur Rahman      not out    7       5       0       1       0       140.0   
+Sayed Shirzad         not out    25      17              2       2       147.06  
+
+Extras                          31 (b 4, lb 6, nb 4, w 17)
+Total                            302/10 (50.0 Overs, RR:6.04)
+Fall of Wickets: (Gulbadin Naib, 1.3 ov), (Rahmat Shah, 26.2 ov), (Ikram Alikhil, 35.3 ov), (Asghar Afghan, 35.5 ov), (Mohammad Nabi, 37.4 ov), (Samiullah Shinwari, 41.4 ov), (Asghar Afghan, 44.2 ov), (Dawlat Zadran, 44.6 ov), (Rashid Khan, 46.3 ov), (Sayed Shirzad, 49.6 ov), (Roy, 18.4 ov), (Root, 30.1 ov), (Bairstow, 31.4 ov), (Buttler, 34.2 ov), (Stokes, 41.6 ov), (Woakes, 44.5 ov), (Morgan, 46.1 ov), (Rashid, 49.3 ov), 
+
+
+BOWLING      O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Allen        3.0     0       26      0       8.67    5       4       0       0       0       
+Gayle        6.0     0       26      2       4.33    12      1       0       1       0       
+Cottrell     7.0     0       40      0       5.71    17      4       1       3       0       
+Holder       8.0     0       42      0       5.25    23      6       0       2       2       
+Roach        10.0    0       36      3       3.6     24      3       0       1       0       
+Brathwaite   9.0     0       58      4       6.44    12      3       3       3       2       
+Thomas       7.0     0       43      1       6.14    15      6       1       0       0       
+
+
+
