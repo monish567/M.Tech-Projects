@@ -1,0 +1,46 @@
+England Innings (50 overs maximum)										
+BATSMEN							R		B	M	4s	6s		SR
+JM Vince	c Mujeeb Ur Rahman b Dawlat Zadran	26		31	37	3	0		83.87
+JM Bairstow	c & b Gulbadin Naib			90		99	115	8	3		90.90
+JE Root		c Rahmat Shah b Gulbadin Naib		88		82	155	5	1		107.31
+EJG Morgan (c)	c Rahmat Shah b Gulbadin Naib		148		71	77	4	17		208.45
+JC Buttler (WK)	c Mohammad Nabi b Dawlat Zadran		2		2	8	0	0		100.00
+BA Stokes	b Dawlat Zadran				2		6	14	0	0		33.33
+MM Ali		not out					31		9	15	1	4		344.44
+CR Woakes	not out					1		1	6	0	0		100.00
+Extras														9 (lb 1, nb 1, w 7)
+TOTAL														397/6 (50 Overs, RR: 7.94)
+Did not bat: JC Archer, AU Rashid, MA Wood
+Fall of wickets: 1-44 (James Vince, 9.3 ov), 2-164 (Jonny Bairstow, 29.5 ov), 3-353 (Joe Root, 46.4 ov), 4-359 (Eoin Morgan, 46.6 ov), 5-362 (Jos Buttler, 47.4 ov), 6-378 (Ben Stokes, 49.1 ov)										
+Bowling			O	M	R	W	Econ	0s	4s	6s	WD	NB	
+Mujeeb Ur Rahman	10	0	44	0	4.40	36	2	1	2	0	
+Dawlat Zadran		10	0	85	3	8.50	25	8	3	4	0	
+Mohammad Nabi		9	0	70	0	7.77	19	4	4	0	0	
+Gulbadin Naib		10	0	68	3	6.80	29	3	5	0	1	
+Rahmat Shah		2	0	19	0	9.50	3	1	1	0	0	
+Rashid Khan		9	0	110	0	12.22	18	3	11	0	0
+
+Afghanistan Innings(target: 398 runs from 50 overs)									
+BATSMEN							R		B	M	4s	6s		SR
+Noor Ali Zadran			b Archer		0		7	8	0	0		0.00
+Gulbadin Naib (c)		c (WK)Buttler b Wood	37		28	52	4	1		132.14
+Rahmat Shah			c Bairstow b Rashid	46		74	98	3	1		62.16
+Hashmatullah Shahidi		b Archer		76		100	145	5	2		76.00
+Asghar Afghan			c Root b Rashid		44		48	68	3	2		91.66
+Mohammad Nabi			c Stokes b Rashid	9		7	8	0	1		128.57
+Najibullah Zadran		b Wood			15		13	21	0	1		115.38
+Rashid Khan			c Bairstow b Archer	8		13	19	1	0		61.53
+Ikram Alikhil (WK)		not out			3		10	18	0	0		30.00
+Dawlat Zadran			not out			0		0	2	0	0		-
+Extras														9 (lb 1, w 8)
+TOTAL														247/8 (50 Overs, RR: 4.94)
+Did not bat: Mujeeb Ur Rahman
+Fall of wickets: 1-4 (Noor Ali Zadran, 1.2 ov), 2-52 (Gulbadin Naib, 11.5 ov), 3-104 (Rahmat Shah, 24.5 ov), 4-198 (Asghar Afghan, 40.5 ov), 5-210 (Mohammad Nabi, 42.4 ov), 6-234 (Hashmatullah Shahidi, 45.5 ov), 7-234 (Najibullah Zadran, 46.2 ov), 8-247 (Rashid Khan, 49.4 ov)
+Bowling			O	M	R	W	Econ	0s	4s	6s	WD	NB	
+Mujeeb Ur Rahman	10	0	44	0	4.40	36	2	1	2	0	
+Dawlat Zadran		10	0	85	3	8.50	25	8	3	4	0	
+Mohammad Nabi		9	0	70	0	7.77	19	4	4	0	0	
+Gulbadin Naib		10	0	68	3	6.80	29	3	5	0	1	
+Rahmat Shah		2	0	19	0	9.50	3	1	1	0	0	
+Rashid Khan		9	0	110	0	12.22	18	3	11	0	0											
+

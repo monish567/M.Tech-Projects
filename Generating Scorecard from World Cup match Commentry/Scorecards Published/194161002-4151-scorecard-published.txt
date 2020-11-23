@@ -1,0 +1,50 @@
+SummaryScorecardReportCommentaryVideosCoverageStatisticsTable   Bangladesh Innings (50 overmaximum) 															
+BATSMEN										R					B		M		4s		6s		SR
+Tamim Iqbal                             c Boult b Ferguson			24					38		58		3		0		63.15
+Soumya Sarkar                           b Henry					25					25		35		3		0		100.00
+Shakib Al Hasan                         c †Latham b de Grandhomme		64					68		98		7		0		94.11
+Mushfiqur Rahim †                       run out (Guptill/†Latham)		19					35		48		2		0		54.28
+Mohammad Mithun                         c de Grandhomme b Henry			26					33		59		3		0		78.78
+Mahmudullah                             c Williamson b Santner			20					41		52		0		0		48.78
+Mosaddek Hossain                        c Guptill b Boult			11					22		40		0		0		50.00
+Mohammad Saifuddin                      b Henry					29					23		34		3		1		126.08
+Mehidy Hasan Miraz        		c †Latham b Boult			7					9		9		0		0		77.77
+Mashrafe Mortaza (c)                    c Boult b Henry				1					2		6		0		0		50.00
+Mustafizur Rahman                       not out					0					0		1		0		0		-
+Extras	18 (b 1, lb 8, w 9)
+TOTAL	244 all out (49.2 Overs, RR: 4.94)
+Fall of wickets: 1-45 (Soumya Sarkar, 8.3 ov), 2-60 (Tamim Iqbal, 13.2 ov), 3-110 (Mushfiqur Rahim, 23.5 ov), 4-151 (Shakib Al Hasan, 30.2 ov), 5-179 (Mohammad Mithun, 37.1 ov), 6-197 (Mahmudullah, 42.3 ov), 7-224 (Mosaddek Hossain, 46.2 ov), 8-235 (Mehidy Hasan, 48.2 ov), 9-244 (Mashrafe Mortaza, 49.1 ov), 10-244 (Mohammad Saifuddin, 49.2 ov)
+
+Bowling	O	M	R	W	Econ	0s	4s	6s	WD	NB	
+MJ Henry	9.2	0	47	4	5.03	31	5	0	1	0	
+TA Boult	10	0	44	2	4.40	32	4	0	1	0	
+LH Ferguson	10	0	40	1	4.00	35	3	0	5	0	
+C de Grandhomme	8	0	39	1	4.87	25	4	0	1	0	
+JDS Neesham	2	0	24	0	12.00	2	4	0	1	0	
+MJ Santner	10	1	41	1	4.10	32	1	1	0	0	
+
+New Zealand Innings (target: 245 runs from 50 overs)															
+BATSMEN									R	B		M		4s		6s		SR
+MJ Guptill		c Tamim Iqbal b Shakib Al Hasan			25	14		22		3		1		178.57
+C Munro		c Mehidy Hasan Miraz b Shakib Al Hasan			24	34		41		3		1		70.58
+KS Williamson (c)	 c Mosaddek Hossain b Mehidy Hasan Miraz	40	72		108		1		0		55.55
+LRPL Taylor		c †Mushfiqur Rahim b Mosaddek Hossain		82	91		122		9		0		90.10
+TWM Latham †		 c Mohammad Saifuddin b Mehidy Hasan Miraz	0	4		5		0		0		0.00
+JDS Neesham		 c Soumya Sarkar b Mosaddek Hossain		25	33		54		2		1		75.75
+C de Grandhomme		 c †Mushfiqur Rahim b Mohammad Saifuddin	15	13		23		2		0		115.38
+MJ Santner		not out						17	12		26		2		0		141.66
+MJ Henry		 b Mohammad Saifuddin				6	8		16		1		0		75.00
+LH Ferguson		not out						4	3		5		1		0		133.33
+Extras																		10 (nb 1, w 9)
+TOTAL	248/8 (47.1 Overs, RR: 5.25)
+Did not bat: TA Boult
+Fall of wickets: 1-35 (Martin Guptill, 5.1 ov), 2-55 (Colin Munro, 9.6 ov), 3-160 (Kane Williamson, 31.1 ov), 4-162 (Tom Latham, 31.6 ov), 5-191 (Ross Taylor, 38.3 ov), 6-218 (Colin de Grandhomme, 42.5 ov), 7-218 (James Neesham, 43.3 ov), 8-238 (Matt Henry, 46.3 ov)
+
+Bowling	O	M	R	W	Econ	0s	4s	6s	WD	NB	
+Mashrafe Mortaza	5	0	32	0	6.40	16	5	0	0	1	
+Mehidy Hasan Miraz	10	0	47	2	4.70	37	4	2	1	0	
+Mustafizur Rahman	7.1	0	48	0	6.69	19	6	0	3	0	
+Shakib Al Hasan	10	0	47	2	4.70	31	2	1	1	0	
+Mohammad Saifuddin	7	0	41	2	5.85	19	4	0	3	0	
+Mosaddek Hossain	8	0	33	2	4.12	27	3	0	1	0	
+

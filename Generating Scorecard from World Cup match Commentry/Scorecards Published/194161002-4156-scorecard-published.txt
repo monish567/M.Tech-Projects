@@ -1,0 +1,16 @@
+BATSMEN		                        R			B	M	4s	6s		SR
+Q de Kock †	not out	                17			21	37	1	0		80.95
+HM Amla	c Gayle b Cottrell	        6			7	13	1	0		85.71
+AK Markram	 c †Hope b Cottrell		5			10	16	1	0		50.00
+F du Plessis (c)	not out	        0			7	9	0	0		0.00
+Extras                                                      1 (w 1)
+TOTAL                                                     29/2 (7.3 Overs, RR: 3.86)
+Did not bat: HE van der Dussen, DA Miller, AL Phehlukwayo, CH Morris, K Rabada, Imran Tahir, BE Hendricks
+Fall of wickets: 1-11 (Hashim Amla, 2.5 ov), 2-28 (Aiden Markram, 6.1 ov)
+
+BOWLING	        O	M	R	W	ECON	0s	4s	6s	WD		NB
+SS Cottrell		4	1	18	2	4.50	17	2	0	0		0
+KAJ Roach		3	0	10	0	3.33	13	1	0	1		0
+O Thomas		0.3	0	1	0	2.00	2	0	0	0		0
+
+

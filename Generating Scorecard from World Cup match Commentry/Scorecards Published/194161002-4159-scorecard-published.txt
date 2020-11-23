@@ -1,0 +1,50 @@
+Australia Innings (50 overs maximum)								
+BATSMEN									R	B	M	4s	6s	SR	
+DA Warner		b de Silva				26	48	70	2	0	54.16	
+AJ Finch(c)		c Karunaratne b Udana	153	132	176	15	5	115.90	
+UT Khawaja		c Udana b de Silva		10	20	21	1	0	50.00	
+SPD Smith		b Malinga				73	59	90	7	1	123.72	
+GJ Maxwell		not out					46	25	40	5	1	184.00	
+SE Marsh		c Siriwardana b Udana	3	9	19	0	0	33.33	
+AT Carey(wk)	run out (Udana)			4	3	8	0	0	133.33	
+PJ Cummins		run out (Udana)			0	1	4	0	0	0.00	
+MA Starc		not out					5	4	7	0	0	125.00	
+Extras                                        14 (lb 4, nb 1, w 9)
+TOTAL                                   334/7 (50 Overs, RR: 6.68)
+Did not bat: JP Behrendorff, KW Richardson
+Fall of wickets: 1-80 (David Warner, 16.4 ov), 2-100 (Usman Khawaja, 22.6 ov), 3-273 (Aaron Finch, 42.4 ov), 4-278
+(Steven Smith, 43.3 ov), 5-310 (Shaun Marsh, 46.6 ov), 6-317 (Alex Carey, 48.1 ov), 7-320 (Pat Cummins, 48.3 ov)							
+
+Bowling			O	M	R	W	Econ	0s	4s	6s	WD	NB	
+SL Malinga		10	1	61	1	6.10	29	5	1	3	1	
+N Pradeep		10	0	88	0	8.80	26	13	2	1	0	
+I Udana			10	0	57	2	5.70	24	4	0	1	0	
+NLTC Perera		10	0	67	0	6.70	19	6	1	1	0	
+DM de Silva		8	0	40	2	5.00	24	1	2	2	0	
+TAM Siriwardana	2	0	17	0	8.50	4	1	1	0	0	
+
+Sri Lanka Innings (target: 335 runs from 50 overs)												
+BATSMEN											R		B		M		4s		6s		SR		
+FDM Karunaratne(c)	c Maxwell b Richardson		97		108		132		9		0		89.81		
+MDKJ Perera(wk)		b Starc						52		36		64		5		1		144.44		
+HDRL Thirimanne		c Carey(wk) b Behrendorff	16		26		34		1		0		61.53		
+BKG Mendis			c Carey(wk) b Starc			30		37		68		0		2		81.08		
+AD Mathews			c Carey(wk) b Cummins		9		11		14		2		0		81.81		
+TAM Siriwardana		b Starc						3		4		5		0		0		75.00		
+NLTC Perera			c Warner b Starc			7		3		4		0		1		233.33		
+DM de Silva			not out						16		30		43		2		0		53.33		
+I Udana				c Finch b Richardson		8		8		8		1		0		100.00		
+SL Malinga			c Khawaja b Richardson		1		5		9		0		0		20.00		
+N Pradeep			c Carey(wk) b Cummins		0		7		21		0		0		0.00		
+Extras						                                                    8 (lb 2, w 6)
+TOTAL                                                      247 all out (45.5 Overs, RR: 5.38)
+Fall of wickets: 1-115 (Kusal Perera, 15.3 ov), 2-153 (Lahiru Thirimanne, 23.5 ov), 3-186 (Dimuth Karunaratne, 32.1 ov),
+4-205 (Angelo Mathews, 35.4 ov), 5-209 (Milinda Siriwardana, 36.2 ov), 6-217 (Thisara Perera, 36.6 ov), 7-222 (Kusal
+Mendis, 38.1 ov), 8-236 (Isuru Udana, 39.6 ov), 9-237 (Lasith Malinga, 41.4 ov), 10-247 (Nuwan Pradeep, 45.5 ov)											
+
+Bowling			O	M	R	W	Econ	0s	4s	6s	WD	NB	
+MA Starc		10	0	55	4	5.50	34	5	2	1	0	
+PJ Cummins		7.5	0	38	2	4.85	28	4	0	2	0	
+JP Behrendorff	9	0	59	1	6.55	22	4	1	0	0	
+KW Richardson	9	1	47	3	5.22	32	6	0	2	0	
+GJ Maxwell		10	0	46	0	4.60	26	1	1	1	0	

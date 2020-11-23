@@ -1,0 +1,50 @@
+England Innings (50 overs maximum)										
+BATSMEN							R		B	M	4s	6s		SR
+JJ Roy			 c Santner b Neesham		60		61	81	8	0		98.36
+JM Bairstow		 b Henry			106		99	147	15	1		107.07
+JE Root			 c (wk)Latham b Boult		24		25	54	1	0		96.00
+JC Buttler (wk)		 c Williamson b Boult		11		12	25	1	0		91.66
+EJG Morgan (c)		 c Santner b Henry		42		40	64	5	0		105.00
+BA Stokes		 c Henry b Santner		11		27	33	0	0		40.74
+CR Woakes		 c Williamson b Neesham		4		11	12	0	0		36.36
+LE Plunkett		 not out			15		12	28	1	0		125.00
+AU Rashid		 b Southee			16		12	17	1	0		133.33
+JC Archer		 not out			1		1	1	0	0		100.00
+Extras														15 (b 4, lb 4, w 7)
+TOTAL														305/8 (50 Overs, RR: 6.1)
+Did not bat: MA Wood
+Fall of wickets: 1-123 (Jason Roy, 18.4 ov),  2-194 (Joe Root, 30.1 ov),  3-206 (Jonny Bairstow, 31.4 ov),  4-214 (Jos Buttler, 34.2 ov),  5-248 (Ben Stokes, 41.6 ov),  6-259 (Chris Woakes, 44.5 ov),  7-272 (Eoin Morgan, 46.1 ov),  8-301 (Adil Rashid, 49.3 ov)
+Bowling	O	M	R	W	Econ	0s	4s	6s	WD	NB	
+MJ Santner	10	0	65	1	6.50	24	7	0	2	0
+TA Boult	10	0	56	2	5.60	30	6	0	1	0
+TG Southee	9	0	70	1	7.77	23	10	1	0	0
+MJ Henry	10	0	54	2	5.40	30	5	0	2	0
+C de Grandhomme	1	0	11	0	11.00	1	2	0	0	0
+JDS Neesham	10	1	41	2	4.10	31	2	0	2	0
+
+NewZealand Innings (target: 306 runs from 50 overs)							
+BATSMEN							R	B	M	4s	6s	SR
+MJ Guptill		c (wk)Buttler b Archer		8	16	25	1	0	50.00
+HM Nicholls		lbw b Woakes			0	1	6	0	0	0.00
+KS Williamson (c)	run out (Wood)			27	40	62	3	0	67.50
+LRPL Taylor		run out (Rashid/(wk)Buttler)	28	42	54	2	0	66.66
+TWM Latham (wk)		c (wk)Buttler b Plunkett	57	65	106	5	0	87.69
+JDS Neesham		b Wood				19	27	31	1	0	70.37
+C de Grandhomme		c Root b Stokes			3	13	15	0	0	23.07
+MJ Santner		lbw b Wood			12	30	58	1	0	40.00
+TG Southee		not out				7	16	30	0	0	43.75
+MJ Henry		b Wood				7	13	17	0	0	53.84
+TA Boult		st (wk)Buttler b Rashid		4	7	7	1	0	57.14
+Extras												14 (b 2, lb 6, w 6)
+TOTAL												186 all out (45 Overs, RR: 4.13)
+Fall of wickets: 1-2 (Henry Nicholls, 0.5 ov),  2-14 (Martin Guptill, 5.2 ov),  3-61 (Kane Williamson, 15.1 ov),  4-69 (Ross Taylor, 16.4 ov),  5-123 (James Neesham, 25.1 ov),  6-128 (Colin de Grandhomme, 28.1 ov),  7-164 (Tom Latham, 38.3 ov),  8-166 (Mitchell Santner, 39.2 ov),  9-181 (Matt Henry, 43.4 ov),  10-186 (Trent Boult, 44.6 ov)
+Bowling	O	M	R	W	Econ	0s	4s	6s	WD	NB	
+CR Woakes	8	0	44	1	5.50	29	6	0	1	0
+JC Archer	7	1	17	1	2.42	31	1	0	1	0
+LE Plunkett	8	0	28	1	3.50	26	1	0	1	0
+MA Wood		9	0	34	3	3.77	35	2	0	2	0
+JE Root		3	0	15	0	5.00	7	1	0	0	0
+AU Rashid	5	0	30	1	6.00	12	3	0	0	0
+BA Stokes	5	0	10	1	2.00	21	0	0	1	0	
+
+

@@ -1,0 +1,41 @@
+Afghanistan Innings (50 overs maximum)																			
+BATSMEN							R	B	M	4s	6s	SR
+Mohammad Shahzad (wk)        	b Starc			0	3	4	0	0	0.00
+Hazratullah Zazai               c (wk)Carey b Cummins	0	2	10	0	0	0.00
+Rahmat Shah                    	c Smith b Zampa		43	60	86	6	0	71.66
+Hashmatullah Shahidi          	st (wk)Carey b Zampa	18	34	56	3	0	52.94
+Mohammad Nabi                  	run out (Smith/(wk)Carey)	7	22	28	0	0	31.81
+Gulbadin Naib (c)               c (wk)Carey b Stoinis	31	33	67	4	1	93.93
+Najibullah Zadran               c (wk)Carey b Stoinis	51	49	66	7	2	104.08
+Rashid Khan                     lbw b Zampa		27	11	23	2	3	245.45
+Dawlat Zadran                   c (wk)Carey b Cummins	4	6	5	1	0	66.66
+Mujeeb Ur Rahman              	b Cummins		13	9	18	1	1	144.44
+Hamid Hassan                    not out			1	2	3	0	0	50.00
+Extras                                                                             12 (lb 3, nb 1, w 8) 
+TOTAL                                                                              207 all out (38.2 Overs, RR: 5.4) 
+Fall of wickets: 1-0 (Mohammad Shahzad, 0.3 ov), 2-5 (Hazratullah Zazai, 1.2 ov), 3-56 (Hashmatullah Shahidi, 13.5 ov), 4-75 (Rahmat Shah, 19.2 ov), 5-77 (Mohammad Nabi, 20.2 ov), 6-160 (Gulbadin Naib, 33.1 ov), 7-162 (Najibullah Zadran, 33.5 ov), 8-166 (Dawlat Zadran, 34.6 ov), 9-205 (Rashid Khan, 37.3 ov), 10-207 (Mujeeb Ur Rahman, 38.2 ov)
+Bowling		O	M	R	W	Econ	0s	4s	6s	WD	NB	
+MA Starc	7	1	31	1	4.42	30	5	0	2	0	
+PJ Cummins	8.2	0	40	3	4.80	36	6	1	1	1	
+NM Coulter-Nile	8	1	36	0	4.50	33	4	1	2	0	
+MP Stoinis	7	1	37	2	5.28	30	4	2	3	0	
+A Zampa		8	0	60	3	7.50	19	5	3	0	0
+
+Australia Innings (target: 208 runs from 50 overs)													
+BATSMEN                                        			R	 B	M	4s 	6s	SR									
+AJ Finch (c)		c Mujeeb Ur Rahman b Gulbadin Naib	66       49     63      6       4  	134.69
+DA Warner		not out					89	 114	131	8	0	78.07
+UT Khawaja		lbw b Rashid Khan			15	 20	32	1	0	75.00
+SPD Smith		c Hazratullah Zazai b Mujeeb Ur Rahman	18       27     36    	1       0  	66.66
+GJ Maxwell             	not out                                 4        1      2       1       0  	400.00 Extras                                                                                             17 (lb 1, nb 2, w 14)
+TOTAL                                                                               		209/3 (34.5 Overs, RR: 6.0)
+Did not bat: MP Stoinis, AT Carey (wk), NM Coulter-Nile, PJ Cummins, MA Starc, A Zampa
+Fall of wickets: 1-96 (Aaron Finch, 16.2 ov), 2-156 (Usman Khawaja, 24.6 ov), 3-205 (Steven Smith, 34.4 ov)
+Bowling			O	M	R	W	Econ	0s	4s	6s	WD	NB	
+Mujeeb Ur Rahman	4.5	0	45	1	9.31	9	5	1	0	0	
+Hamid Hassan		6	2	15	0	2.50	28	2	0	1	0	
+Dawlat Zadran		5	0	32	0	6.40	17	3	1	1	1	
+Gulbadin Naib		5	0	32	1	6.40	16	2	1	2	1	
+Mohammad Nabi		6	0	32	0	5.33	18	1	0	2	0	
+Rashid Khan		8	0	52	1	6.50	17	4	1	0	0	
+	

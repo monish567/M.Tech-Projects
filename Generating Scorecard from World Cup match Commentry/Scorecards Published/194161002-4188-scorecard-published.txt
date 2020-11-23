@@ -1,0 +1,44 @@
+South Africa Innings (50 overs maximum)							
+BATSMEN						R	B	M	4s	6s	SR
+AK Markram 		st †Carey b Lyon	34	37	51	6	1	91.89
+Q de Kock †		c Starc b Lyon		52	51	78	7	0	101.96
+F du Plessis (c) 	c Starc b Behrendorff	100	94	125	7	2	106.38
+HE van der Dussen 	c Maxwell b Cummins	95	97	136	4	4	97.93
+JP Duminy		c Stoinis b Starc	14	13	18	1	0	107.69
+D Pretorius			b Starc		2	5	13	0	0	40.00
+AL Phehlukwayo		not out			4	3	8	1	0	133.33
+Extras                                                                                  24 (b 1, lb 10, w 13) 
+TOTAL                                                                                   325/6 (50 Overs, RR: 6.5) 
+Did not bat: CH Morris, K Rabada, Imran Tahir, T Shamsi 
+Fall of wickets: 1-79 (Aiden Markram, 11.3 ov), 2-114 (Quinton de Kock, 17.4 ov), 3-265 (Faf du Plessis, 42.6 ov), 4-295 (Jean-Paul Duminy, 46.5 ov), 5-317 (Dwaine Pretorius, 48.5 ov), 6-325 (Rassie van der Dussen, 49.6 ov)							
+Bowling		O	M	R	W	Econ	0s	4s	6s	WD	NB	
+MA Starc	9	0	59	2	6.55	27	7	0	4	0	
+JP Behrendorff	8	0	55	1	6.87	21	6	1	0	0	
+NM Lyon		10	0	53	2	5.30	32	4	2	0	0	
+PJ Cummins	9	0	66	1	7.33	28	6	2	3	0	
+SPD Smith	1	0	5	0	5.00	4	1	0	0	0	
+MP Stoinis	3	0	19	0	6.33	5	1	0	1	0	
+GJ Maxwell	10	0	57	0	5.70	22	1	2	1	0	
+Australia Innings (target: 326 runs from 50 overs)																			
+BATSMEN							R						B		M		4s		6s				SR
+DA Warner	c Morris b Pretorius			122						117		168		15		2				104.27
+AJ Finch (c)	c Markram b Imran Tahir			3						4		9		0		0				75.00
+UT Khawaja		b Rabada			18						14		26		3		0				128.57
+SPD Smith		lbw b Pretorius			7						6		9		1		0				116.66
+MP Stoinis	run out (Rabada/†de Kock)		22						34		54		4		0				64.70
+GJ Maxwell	c †de Kock b Rabada			12						20		24		1		0				60.00
+AT Carey †	c Markram b Morris			85						69		90		11		1				123.18
+PJ Cummins	c Duminy b Phehlukwayo			9						15		24		1		0				60.00
+MA Starc	b Rabada				16						11		24		1		1				145.45
+JP Behrendorff	not out					11						6		10		0		0				183.33
+NM Lyon		c Markram b Phehlukwayo			3						3		7		0		0				100.00
+Extras                                                                                                                                                      7 (lb 4, w 3) TOTAL                                                                                                                315 all out (49.5 Overs, RR: 6.32) 
+Fall of wickets: 1-5 (Aaron Finch, 2.1 ov), 1-20* (Usman Khawaja, retired not out ), 2-33 (Steven Smith, 6.3 ov), 3-95 (Marcus Stoinis, 18.3 ov), 4-119 (Glenn Maxwell, 24.1 ov), 5-227 (David Warner, 39.1 ov), 6-272 (Pat Cummins, 44.4 ov), 7-275 (Alex Carey, 45.2 ov), 8-301 (Usman Khawaja, 48.1 ov), 9-306 (Mitchell Starc, 48.5 ov), 10-315 (Nathan Lyon, 49.5 ov)																			
+Bowling		O	M	R	W	Econ	0s	4s	6s	WD	NB	
+Imran Tahir	9	0	59	1	6.55	23	7	1	0	0	
+K Rabada	10	0	56	3	5.60	33	6	1	0	0	
+D Pretorius	6	2	27	2	4.50	26	5	0	1	0	
+CH Morris	9	0	63	1	7.00	24	7	2	0	0	
+T Shamsi	9	0	62	0	6.88	20	7	0	1	0	
+AL Phehlukwayo	2.5	0	22	2	7.76	5	2	0	1	0	
+JP Duminy	4	0	22	0	5.50	11	3	0	0	0	

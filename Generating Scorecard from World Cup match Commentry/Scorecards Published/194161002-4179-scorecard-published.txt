@@ -1,0 +1,45 @@
+BATSMEN							R	B	M	4s	6s	SR
+JJ Roy		c sub (RA Jadeja) b Kuldeep Yadav	66	57	101	7	2	115.78
+JM Bairstow	 c Pant b Mohammed Shami		111	109	138	10	6	101.83
+JE Root	 	c Pandya b Mohammed Shami		44	54	96	2	0	81.48
+EJG Morgan(c)		 c Jadhav b Mohammed Shami	1	9	10	0	0	11.11
+BA Stokes	 c sub (RA Jadeja) b Bumrah		79	54	80	6	3	146.29
+JC Buttler 	 c & b Mohammed Shami			20	8	17	1	2	250.00
+CR Woakes	 c Sharma b Mohammed Shami		7	5	8	1	0	140.00
+LE Plunkett	not out					1	4	11	0	0	25.00
+JC Archer	not out					0	0	2	0	0	-
+
+Extras	8 (b 2, lb 2, w 4)
+TOTAL	337/7 (50 Overs, RR: 6.74)
+Did not bat: AU Rashid, MA Wood
+Fall of wickets: 1-160 (Jason Roy, 22.1 ov), 2-205 (Jonny Bairstow, 31.4 ov), 3-207 (Eoin Morgan, 33.4 ov), 4-277 (Joe Root, 44.1 ov), 5-310 (Jos Buttler, 46.6 ov), 6-319 (Chris Woakes, 48.1 ov), 7-336 (Ben Stokes, 49.4 ov)
+
+Bowling	O	M	R	W	Econ	0s	4s	6s	WD	NB	
+Mohammed Shami	10	1	69	5	6.90	37	8	3	1	0	
+JJ Bumrah	10	1	44	1	4.40	30	3	0	0	0	
+YS Chahal	10	0	88	0	8.80	28	7	6	2	0	
+HH Pandya	10	0	60	0	6.00	22	4	1	1	0	
+Kuldeep Yadav	10	0	72	1	7.20	25	5	3	0	0	
+
+India Innings (target: 338 runs from 50 overs) 
+BATSMEN							R	B	M	4s	6s	SR
+KL Rahul	 c & b Woakes				0	9	10	0	0	0.00
+RG Sharma	c Buttler b Woakes			102	109	152	15	0	93.57
+V Kohli (c)	c sub (JM Vince) b Plunkett		66	76	103	7	0	86.84
+RR Pant	 c Woakes b Plunkett				32	29	58	4	0	110.34
+HH Pandya	 c sub (JM Vince) b Plunkett		45	33	49	4	0	136.36
+MS Dhoni 	not out					42	31	54	4	1	135.48
+KM Jadhav	not out					12	13	24	1	0	92.30
+Extras		7 (lb 1, w 6)
+TOTAL		306/5 (50 Overs, RR: 6.12)
+Did not bat: Kuldeep Yadav, Mohammed Shami, YS Chahal, JJ Bumrah
+
+Fall of wickets: 1-8 (KL Rahul, 2.3 ov), 2-146 (Virat Kohli, 28.2 ov), 3-198 (Rohit Sharma, 36.1 ov), 4-226 (Rishabh Pant, 39.1 ov), 5-267 (Hardik Pandya, 44.5 ov)
+Bowling	O	M	R	W	Econ	0s	4s	6s	WD	NB	
+CR Woakes	10	3	58	2	5.80	35	7	1	0	0	
+JC Archer	10	0	45	0	4.50	33	5	0	0	0	
+LE Plunkett	10	0	55	3	5.50	27	4	0	4	0	
+MA Wood	10	0	73	0	7.30	19	9	0	1	0	
+AU Rashid	6	0	40	0	6.66	12	5	0	1	0	
+BA Stokes	4	0	34	0	8.50	7	5	0	0	0	
+

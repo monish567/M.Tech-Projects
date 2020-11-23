@@ -1,0 +1,52 @@
+
+South Africa Innings(49 overs maximum)
+BATSMEN							R	B	M	4s	6s	SR
+Q de Kock 		b Boult				5	8	8	1	0	62.50
+HM Amla			b Santner			55	83	111	4	0	66.26
+F du Plessis (c)	b Ferguson			23	35	53	4	0	65.71
+AK Markram		c Munro b de Grandhomme		38	55	74	4	0	69.09
+HE van der Dussen	not out				67	64	100	2	3	104.68
+DA Miller		c Boult b Ferguson		36	37	55	2	1	97.29
+AL Phehlukwayo		c Williamson b Ferguson		0	5	12	0	0	0.00
+CH Morris		not out				6	7	12	1	0	85.71
+Extras												11 (lb 7, w 4)
+TOTAL												241/6 (49 Overs, RR: 4.91)
+Did not bat: K Rabada, Imran Tahir, L Ngidi												
+Fall of wickets: 1-9 (Quinton de Kock, 1.5 ov), 2-59 (Faf du Plessis, 13.6 ov), 3-111 (Hashim Amla, 27.4 ov), 4-136 (Aiden Markram, 32.3 ov), 5-208 (David Miller, 44.5 ov), 6-218 (Andile Phehlukwayo, 46.3 ov)												
+
+
+
+Bowling			O	M	R	W	Econ	0s	4s	6s	WD	NB	
+MJ Henry		10	2	34	0	3.40	42	2	1	0	0	
+TA Boult		10	0	63	1	6.30	30	7	1	1	0	
+LH Ferguson		10	0	59	3	5.90	32	6	1	3	0	
+C de Grandhomme		10	0	33	1	3.30	36	1	0	0	0	
+MJ Santner		9	0	45	1	5.00	22	2	1	0	0	
+
+
+
+New Zealand Innings(target:242 runs from 49 overs)
+BATSMEN							R	B	M	4s	6s	SR
+MJ Guptill		hit wicket b Phehlukwayo	35	59	68	5	0	59.32
+C Munro			c & b Rabada			9	5	12	2	0	180.00
+KS Williamson (c)	not out				106	138	216	9	1	76.81
+LRPL Taylor		c +de Kock b Morris		1	2	6	0	0	50.00
+TWM Latham +		c +de Kock b Morris		1	4	10	0	0	25.00
+JDS Neesham		c Amla b Morris			23	34	60	3	0	67.64
+C de Grandhomme		c du Plessis b Ngidi		60	47	70	5	2	127.65
+MJ Santner		not out				2	3	14	0	0	66.66
+Extras												8 (lb 1, nb 1, w 6)
+TOTAL												245/6 (48.3 Overs, RR: 5.05)
+Did not bat: MJ Henry, LH Ferguson, TA Boult												
+Fall of wickets: 1-12 (Colin Munro, 2.1 ov), 2-72 (Martin Guptill, 14.6 ov), 3-74 (Ross Taylor, 16.1 ov), 4-80 (Tom Latham, 18.1 ov), 5-137 (James Neesham, 32.2 ov), 6-228 (Colin de Grandhomme, 47.1 ov)
+
+
+
+BOWLING			O	M	R	W	ECON	0s	4s	6s	WD	NB
+K Rabada		10	0	42	1	4.20	39	3	1	1	0
+L Ngidi			10	1	47	1	4.70	35	6	0	2	0
+CH Morris		10	0	49	3	4.90	34	6	0	0	0
+AL Phehlukwayo		8.3	0	73	1	8.58	17	7	2	3	1
+Imran Tahir		10	0	33	0	3.30	34	2	0	0	0
+												
+

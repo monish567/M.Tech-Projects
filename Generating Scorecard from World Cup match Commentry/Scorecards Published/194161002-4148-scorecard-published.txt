@@ -1,0 +1,50 @@
+BATSMEN									R	B	M	4s	6s		SR		
+Imam-ul-Haq			c Woakes b Ali		44	58	92	3	1		75.86		
+Fakhar Zaman		st †Buttler b Ali	36	40	63	6	0		90.00		
+Babar Azam			c Woakes b Ali		63	66	83	4	1		95.45		
+Mohammad Hafeez		c Woakes b Wood		84	62	99	8	2		135.48		
+Sarfaraz Ahmed (c) †c & b Woakes		55	44	68	5	0		125.00		
+Asif Ali			c Bairstow b Wood	14	11	17	0	1		127.27		
+Shoaib Malik		c Morgan b Woakes	8	8	18	0	0		100.00		
+Wahab Riaz			c Root b Woakes		4	2	4	1	0		200.00		
+Hasan Ali			not out				10	5	10	0	1		200.00		
+Shadab Khan			not out				10	4	3	2	0		250.00		
+
+Extras                      							20 (b 1, lb 8, w 11)
+TOTAL                                                 348/8 (50 Overs, RR: 6.96)
+Did not bat: Mohammad Amir
+Fall of wickets: 1-82 (Fakhar Zaman, 14.1 ov), 2-111 (Imam-ul-Haq, 20.1 ov), 3-199 (Babar Azam, 32.5 ov), 4-279 (Mohammad Hafeez, 42.4 ov), 5-311 (Asif Ali, 46.1 ov), 6-319 (Sarfaraz Ahmed,
+47.2 ov), 7-325 (Wahab Riaz, 47.5 ov), 8-337 (Shoaib Malik, 49.1 ov)
+
+BOWLING		O		M	R	W	ECON	0s	4s	6s		WD		NB
+CR Woakes	8		1	71	3	8.87	19	10	1		2		0
+JC Archer	10		0	79	0	7.90	25	5	2		4		0
+MM Ali		10		0	50	3	5.00	24	4	0		0		0
+MA Wood		10		0	53	2	5.30	28	3	1		2		0
+BA Stokes	7		0	43	0	6.14	15	4	0		0		0
+AU Rashid	5		0	43	0	8.60	9	3	2		1		0
+
+BATSMEN											R	B	M	4s	6s	SR			
+JJ Roy		lbw b Shadab Khan					8	7	11	2	0	114.28			
+JM Bairstow	c †Sarfaraz Ahmed b Wahab Riaz		32	31	46	4	1	103.22			
+JE Root		c Mohammad Hafeez b Shadab Khan		107	104	168	10	1	102.88			
+EJG Morgan (c)	b Mohammad Hafeez				9	18	31	1	0	50.00			
+BA Stokes	c †Sarfaraz Ahmed b Shoaib Malik	13	18	27	1	0	72.22			
+JC Buttler †c Wahab Riaz b Mohammad Amir		103	76	103	9	2	135.52			
+MM Ali		c Fakhar Zaman b Wahab Riaz			19	20	48	1	0	95.00			
+CR Woakes	c †Sarfaraz Ahmed b Wahab Riaz		21	14	23	1	1	150.00			
+JC Archer	c Wahab Riaz b Mohammad Amir		1	2	6	0	0	50.00		
+AU Rashid	not out								3	4	9	0	0	75.00		
+MA Wood		not out								10	6	6	2	0	166.66
+
+Extras                   								8 (lb 3, w 5)
+TOTAL											334/9 (50 Overs, RR: 6.68)
+Fall of wickets: 1-12 (Jason Roy, 2.1 ov), 2-60 (Jonny Bairstow, 8.6 ov), 3-86 (Eoin Morgan, 14.5 ov), 4-118 (Ben Stokes, 21.2 ov), 5-248 (Joe Root, 38.5 ov), 6-288 (Jos Buttler, 44.3 ov), 7-320 (Moeen Ali, 47.5 ov), 8-320 (Chris Woakes, 47.6 ov), 9-322 (Jofra Archer, 48.4 ov)		
+
+Bowling				O	M	R	W	Econ	0s	4s	6s	WD	NB	
+Shadab Khan			10	0	63	2	6.30	24	4	2	0	0	
+Mohammad Amir		10	0	67	2	6.70	25	8	0	3	0	
+Wahab Riaz			10	0	82	3	8.20	20	11	1	1	0	
+Hasan Ali			10	0	66	0	6.60	20	5	0	1	0	
+Mohammad Hafeez		7	0	43	1	6.14	16	2	2	0	0	
+Shoaib Malik		3	0	10	1	3.33	11	1	0	0	0	

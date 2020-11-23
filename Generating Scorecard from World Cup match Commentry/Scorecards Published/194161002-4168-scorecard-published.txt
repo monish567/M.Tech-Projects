@@ -1,0 +1,56 @@
+BATSMEN								R	B	M	4s	6s		SR	
+FDM Karunaratne (c)			c †Buttler b Archer	1	8	9	0	0		12.50	
+MDKJ Perera †				c Ali b Woakes		2	6	12	0	0		33.33	
+WIA Fernando				c Rashid b Wood		49	39	50	6	2		125.64	
+BKG Mendis				c Morgan b Rashid	46	68	110	2	0		67.64	
+AD Mathews				not out			85	115	146	5	1		73.91	
+BMAJ Mendis				c & b Rashid		0	1	2	0	0		0.00	
+DM de Silva				c Root b Archer		29	47	48	1	0		61.70	
+NLTC Perera				c Rashid b Archer	2	6	12	0	0		33.33	
+I Udana					c Root b Wood		6	4	7	1	0		150.00	
+SL Malinga				b Wood			1	5	9	0	0		20.00	
+N Pradeep				not out			1	1	8	0	0		100.00	
+Extras  				10 (lb 4, w 6)																
+																
+TOTAL                                  	232/9 (50 Overs, RR: 4.64)																
+																
+Fall of wickets: 1-3 (Dimuth Karunaratne, 1.6 ov), 2-3 (Kusal Perera, 2.2 ov), 3-62 (Avishka Fernando, 12.5																
+ov), 4-133 (Kusal Mendis, 29.4 ov), 5-133 (Jeevan Mendis, 29.5 ov), 6-190 (Dhananjaya de Silva, 43.3 ov),																
+7-200 (Thisara Perera, 45.4 ov), 8-209 (Isuru Udana, 46.4 ov), 9-220 (Lasith Malinga, 48.3 ov)																
+																
+BOWLING				O	M	R	W	ECON	0s	4s	6s	WD	NB
+CR Woakes			5	0	22	1	4.40	17	2	0	0	0
+JC Archer			10	2	52	3	5.20	38	4	3	2	0
+MA Wood				8	0	40	3	5.00	23	3	0	1	0
+BA Stokes			5	0	16	0	3.20	20	2	0	0	0
+MM Ali				10	0	40	0	4.00	28	0	0	3	0
+AU Rashid			10	0	45	2	4.50	27	3	0	0	0
+JE Root				2	0	13	0	6.50	3	1	0	0	0
+##########
+BATSMEN							R	B	M	4s	6s		SR	
+JM Vince		c BKG Mendis b Malinga		14	18	33	2	0		77.77	
+JM Bairstow		lbw b Malinga			0	1	3	0	0		0.00	
+JE Root			c †MDKJ Perera b Malinga	57	89	126	3	0		64.04	
+EJG Morgan (c)		c & b Udana			21	35	51	2	0		60.00	
+BA Stokes		not out				82	89	135	7	4		92.13	
+JC Buttler †		lbw b Malinga			10	9	16	1	0		111.11	
+MM Ali			c Udana b de Silva		16	20	25	0	1		80.00	
+CR Woakes		c †MDKJ Perera b de Silva	2	4	8	0	0		50.00	
+AU Rashid		c †MDKJ Perera b de Silva	1	2	3	0	0		50.00	
+JC Archer		c NLTC Perera b Udana		3	11	18	0	0		27.27	
+MA Wood			c †MDKJ Perera b Pradeep	0	4	19	0	0		0.00	
+Extras                  6 (lb 1, w 5)																
+																
+TOTAL                   212 all out (47 Overs, RR: 4.51)																
+																
+Fall of wickets: 1-1 (Jonny Bairstow, 0.2 ov), 2-26 (James Vince, 6.5 ov), 3-73 (Eoin Morgan, 18.4 ov), 4-127																
+(Joe Root, 30.3 ov), 5-144 (Jos Buttler, 32.3 ov), 6-170 (Moeen Ali, 38.3 ov), 7-176 (Chris Woakes, 40.1 ov),																
+8-178 (Adil Rashid, 40.5 ov), 9-186 (Jofra Archer, 43.4 ov), 10-212 (Mark Wood, 46.6 ov)																
+BOWLING			O		M	R	W	ECON		0s	4s	6s		WD		NB
+SL Malinga		10		1	43	4	4.30		39	5	0		2		0
+N Pradeep		10		1	38	1	3.80		40	5	0		2		0
+DM de Silva		8		0	32	3	4.00		24	0	1		0		0
+NLTC Perera		8		0	34	0	4.25		23	2	0		0		0
+I Udana			8		0	41	2	5.12		28	3	2		1		0
+BMAJ Mendis		3		0	23	0	7.66		5	0	2		0		0
+

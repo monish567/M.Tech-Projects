@@ -1,0 +1,46 @@
+New Zealand Innings		(50 overs maximum)
+BATSMEN						R			B	M	4s	6s		SR
+MJ Guptill	 	c Kohli b Bumrah	1			14	15	0	0		7.14
+HM Nicholls			b Jadeja	28			51	87	2	0		54.90
+KS Williamson (c) 	c Jadeja b Chahal	67			95	137	6	0		70.52
+LRPL Taylor	 	run out (Jadeja)	74			90	130	3	1		82.22
+JDS Neesham	 	c Karthik b Pandya	12			18	28	1	0		66.66
+C de Grandhomme	 	c †Dhoni b Kumar	16			10	19	2	0		160.00
+TWM Latham †	 	c Jadeja b Kumar	10			11	22	0	0		90.90
+MJ Santner		not out			9			6	13	1	0		150.00
+MJ Henry	 	c Kohli b Kumar		1			2	6	0	0		50.00
+TA Boult		not out			3			3	6	0	0		100.00
+Extras                                                                                                  18 (lb 5, w 13) TOTAL                                                                                                   239/8 (50 Overs, RR: 4.78) 
+Did not bat: LH Ferguson 
+Fall of wickets: 1-1 (Martin Guptill, 3.3 ov), 2-69 (Henry Nicholls, 18.2 ov), 3-134 (Kane Williamson, 35.2 ov), 4-162 (James Neesham, 40.6 ov), 5-200 (Colin de Grandhomme, 44.4 ov), 6-225 (Ross Taylor, 47.6 ov), 7-225 (Tom Latham, 48.1 ov), 8-232 (Matt Henry, 48.6 ov)											
+Bowling		O	M	R	W	Econ	0s	4s	6s	WD	NB	
+B Kumar		10	1	43	3	4.30	32	2	0	0	0	
+JJ Bumrah	10	1	39	1	3.90	31	1	0	0	0	
+HH Pandya	10	0	55	1	5.50	29	5	0	5	0	
+RA Jadeja	10	0	34	1	3.40	38	2	0	0	0	
+YS Chahal	10	0	63	1	6.30	28	5	1	4	0	
+
+India Innings (target: 240 runs from 50 overs)
+BATSMEN							R			B	M	4s	6s		SR
+KL Rahul	 	c †Latham b Henry		1			7	18	0	0		14.28
+RG Sharma		c †Latham b Henry		1			4	7	0	0		25.00
+V Kohli (c)		 lbw b Boult			1			6	8	0	0		16.66
+RR Pant	 	c de Grandhomme b Santner		32			56	89	4	0		57.14
+KD Karthik	 	c Neesham b Henry		6			25	29	1	0		24.00
+HH Pandya	 	c Williamson b Santner		32			62	81	2	0		51.61
+MS Dhoni †	 	run out (Guptill)		50			72	114	1	1		69.44
+RA Jadeja	 	c Williamson b Boult		77			59	84	4	4		130.50
+B Kumar	 		b Ferguson			0			1	10	0	0		0.00
+YS Chahal		c †Latham b Neesham		5			5	8	1	0		100.00
+JJ Bumrah		not out				0			0	4	0	0		-
+Extras														16 (lb 3, w 13)
+TOTAL														221 all out (49.3 Overs, RR: 4.46)
+Fall of wickets: 1-4 (Rohit Sharma, 1.3 ov), 2-5 (Virat Kohli, 2.4 ov), 3-5 (KL Rahul, 3.1 ov), 4-24 (Dinesh Karthik, 9.6 ov), 5-71 (Rishabh Pant, 22.5 ov), 6-92 (Hardik Pandya, 30.3 ov), 7-208 (Ravindra Jadeja, 47.5 ov), 8-216 (MS Dhoni, 48.3 ov), 9-217 (Bhuvneshwar Kumar, 48.6 ov), 10-221 (Yuzvendra Chahal, 49.3 ov)
+Bowling		O	M	R	W	Econ	0s	4s	6s	WD	NB	
+TA Boult	10	2	42	2	4.20	36	4	0	3	0	
+MJ Henry	10	1	37	3	3.70	42	5	0	3	0	
+LH Ferguson	10	0	43	1	4.30	36	1	2	2	0	
+C de Grandhomme	2	0	13	0	6.50	4	0	0	1	0	
+JDS Neesham	7.3	0	49	1	6.53	22	3	1	3	0	
+MJ Santner	10	2	34	2	3.40	40	0	2	1	0	
+
