@@ -1,0 +1,51 @@
+Innings 1
+BATTING                                 R       B       M       4s      6s      SR      
+Amla             c Sharma b Bumrah      6       9       16      1       0       66.67   
+de Kock          c Kohli b Bumrah       10      17      28      1       0       58.82   
+van der Dussen   b Chahal               22      37      59      1       0       59.46   
+du Plessis       b Chahal               38      54      77      4       0       70.37   
+Duminy           lbw b Kuldeep Yadav    3       11      11      0       0       27.27   
+Miller           c & b Chahal           31      40      69      1       0       77.5    
+Phehlukwayo      b Chahal               34      61      68      2       1       55.74   
+Morris           c Kohli b Kumar        42      34      58      1       2       123.53  
+Rabada            not out               31      35      0       2       0       88.57   
+Imran Tahir      c Jadhav b Kumar       0       2       2       0       0       0.0     
+
+Extras                                 10 (b 1, lb 3, w 6)
+Total                                   227/9 (50.0 Overs, RR:4.54)
+Fall of Wickets: (Amla, 3.2 ov), (de Kock, 5.5 ov), (van der Dussen, 19.1 ov), (du Plessis, 19.6 ov), (Duminy, 22.6 ov), (Miller, 35.3 ov), (Phehlukwayo, 39.3 ov), (Morris, 49.2 ov), (Imran Tahir, 49.6 ov), 
+
+
+BOWLING         O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Jadhav          4.0     0       16      0       4.0     11      1       0       0       0       
+Kuldeep Yadav   10.0    0       45      1       4.5     24      2       1       1       0       
+Pandya          6.0     0       31      0       5.17    11      2       0       0       0       
+Chahal          10.0    0       48      4       4.8     25      1       2       3       0       
+Bumrah          10.0    0       35      2       3.5     31      4       0       0       0       
+Kumar           10.0    0       42      2       4.2     27      3       0       2       0       
+
+
+
+Innings 2
+BATTING                              R       B       M       4s      6s      SR      
+Dhawan   c †de Kock b Rabada         8       12      23      1       0       66.67   
+Kohli    c †de Kock b Phehlukwayo    18      34      44      1       0       52.94   
+Rahul    c du Plessis b Rabada       26      42      71      2       0       61.9    
+Dhoni    c & b Morris                34      46      69      2       0       73.91   
+Sharma    not out                    121     143     0       13      2       84.62   
+Pandya    not out                    15      7       0       3       0       214.29  
+
+Extras                              45 (lb 13, nb 6, w 26)
+Total                                267/4 (47.2 Overs, RR:5.66)
+Fall of Wickets: (Dhawan, 5.1 ov), (Kohli, 15.3 ov), (Rahul, 31.3 ov), (Dhoni, 46.1 ov), (Karunaratne, 13.1 ov), (Thirimanne, 21.2 ov), (Mendis, 21.4 ov), (Mathews, 21.6 ov), (de Silva, 22.6 ov), (NLTC Perera, 25.4 ov), (Udana, 31.3 ov), (MDKJ Perera, 32.2 ov), (Malinga, 35.6 ov), (Pradeep, 36.5 ov), 
+
+
+BOWLING       O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Shamsi        9.0     0       53      0       5.89    18      4       1       1       0       
+Imran Tahir   9.5     0       57      0       5.8     18      4       0       0       0       
+Rabada        10.0    0       38      2       3.8     30      4       1       1       0       
+Morris        10.0    0       35      1       3.5     36      5       0       1       0       
+Phehlukwayo   8.3     0       39      1       4.59    25      5       0       1       0       
+
+
+

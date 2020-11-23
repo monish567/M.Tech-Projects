@@ -1,0 +1,55 @@
+Innings 1
+BATTING                                               R       B       M       4s      6s      SR      
+Bairstow   c Mehidy Hasan Miraz b Mashrafe Mortaza    51      50      81      7       0       102.0   
+Root       b Mohammad Saifuddin                       21      29      54      1       0       72.41   
+Roy        c Mashrafe Mortaza b Mehidy Hasan Miraz    153     121     153     14      5       126.45  
+Buttler    c Soumya Sarkar b Mohammad Saifuddin       63      43      66      2       4       146.51  
+Morgan     c Soumya Sarkar b Mehidy Hasan Miraz       35      33      56      1       2       106.06  
+Stokes     c Mashrafe Mortaza b Mustafizur Rahman     6       7       13      0       0       85.71   
+Woakes      not out                                   18      8       0       0       2       225.0   
+Plunkett    not out                                   27      9       0       4       1       300.0   
+
+Extras                                               12 (lb 3, nb 2, w 7)
+Total                                                 386/6 (50.0 Overs, RR:7.72)
+Fall of Wickets: (Bairstow, 19.1 ov), (Root, 31.3 ov), (Roy, 34.4 ov), (Buttler, 45.2 ov), (Morgan, 46.5 ov), (Stokes, 47.1 ov), 
+
+
+BOWLING              O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Mosaddek Hossain     2.0     0       24      0       12.0    1       1       2       0       0       
+Shakib Al Hasan      10.0    0       69      0       6.9     22      8       2       2       0       
+Mehidy Hasan Miraz   10.0    0       66      2       6.6     17      3       3       1       0       
+Mustafizur Rahman    9.0     0       71      1       7.89    14      4       3       2       2       
+Mashrafe Mortaza     10.0    0       68      1       6.8     18      6       2       0       0       
+Mohammad Saifuddin   9.0     0       76      2       8.44    12      7       2       2       0       
+
+
+
+Innings 2
+BATTING                                        R       B       M       4s      6s      SR      
+Soumya Sarkar        b Archer                  2       8       14      0       0       25.0    
+Tamim Iqbal          c Morgan b Wood           19      29      53      1       0       65.52   
+Mushfiqur Rahim      c Roy b Plunkett          44      50      65      2       0       88.0    
+Mohammad Mithun      c †Bairstow b Rashid    0       2       4       0       0       0.0     
+Shakib Al Hasan      b Stokes                  121     119     147     12      1       101.68  
+Mosaddek Hossain     c Archer b Stokes         26      16      16      4       0       162.5   
+Mahmudullah          c †Bairstow b Wood      28      41      66      1       1       68.29   
+Mohammad Saifuddin   b Stokes                  5       8       13      0       0       62.5    
+Mashrafe Mortaza      not out                  4       9       0       0       0       44.44   
+Mehidy Hasan Miraz   c †Bairstow b Archer    12      8       16      2       0       150.0   
+Mustafizur Rahman    c †Bairstow b Archer    0       3       4       0       0       0.0     
+
+Extras                                        105 (b 3, lb 30, nb 3, w 69)
+Total                                          366/10 (48.5 Overs, RR:7.55)
+Fall of Wickets: (Soumya Sarkar, 3.2 ov), (Tamim Iqbal, 11.6 ov), (Mushfiqur Rahim, 28.6 ov), (Mohammad Mithun, 29.3 ov), (Shakib Al Hasan, 39.3 ov), (Mosaddek Hossain, 43.1 ov), (Mahmudullah, 44.6 ov), (Mohammad Saifuddin, 45.4 ov), (Mehidy Hasan Miraz, 48.2 ov), (Mustafizur Rahman, 48.5 ov), (Finch, 2.2 ov), (Warner, 3.6 ov), (Khawaja, 6.6 ov), (Maxwell, 7.4 ov), (Stoinis, 16.1 ov), (Carey, 30.4 ov), (Smith, 44.2 ov), (Cummins, 46.1 ov), (Coulter-Nile, 48.2 ov), (Starc, 48.6 ov), (Lewis, 1.4 ov), (Gayle, 4.5 ov), (Pooran, 19.1 ov), (Hope, 27.2 ov), (Hope, 34.6 ov), (Russell, 38.5 ov), (Brathwaite, 45.3 ov), (Holder, 45.6 ov), (Cottrell, 47.3 ov), (Soumya Sarkar, 8.3 ov), (Tamim Iqbal, 13.2 ov), (Mushfiqur Rahim, 23.5 ov), (Shakib Al Hasan, 30.2 ov), (Mohammad Mithun, 37.1 ov), (Mahmudullah, 42.3 ov), (Mosaddek Hossain, 46.2 ov), (Mehidy Hasan Miraz, 48.2 ov), (Mashrafe Mortaza, 49.1 ov), (Mohammad Saifuddin, 49.2 ov), (Guptill, 5.1 ov), (Munro, 9.6 ov), (Williamson, 31.1 ov), (Latham, 31.6 ov), (Taylor, 38.3 ov), (de Grandhomme, 42.5 ov), (Neesham, 43.3 ov), (Henry, 46.3 ov), (Amla, 3.2 ov), (de Kock, 5.5 ov), (van der Dussen, 19.1 ov), (du Plessis, 19.6 ov), (Duminy, 22.6 ov), (Miller, 35.3 ov), (Phehlukwayo, 39.3 ov), (Morris, 49.2 ov), (Imran Tahir, 49.6 ov), 
+
+
+BOWLING    O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Plunkett   8.0     0       34      1       4.25    12      1       0       2       0       
+Rashid     10.0    0       62      1       6.2     18      5       1       2       0       
+Woakes     8.0     0       67      0       8.38    10      9       0       0       0       
+Wood       8.0     0       52      2       6.5     10      6       0       0       0       
+Stokes     6.0     0       22      3       3.67    15      1       0       1       0       
+Archer     8.5     0       24      3       2.72    27      0       1       5       0       
+
+
+

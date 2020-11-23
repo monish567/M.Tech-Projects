@@ -1,0 +1,56 @@
+Innings 1
+BATTING                                        R       B       M       4s      6s      SR      
+Fakhar Zaman      c Amla b Imran Tahir         44      49      94      6       1       89.8    
+Imam-ul-Haq       c & b Imran Tahir            44      58      71      6       0       75.86   
+Mohammad Hafeez   lbw b Markram                20      33      38      0       1       60.61   
+Babar Azam        c Ngidi b Phehlukwayo        69      80      113     7       0       86.25   
+Imad Wasim        c sub (JP Duminy) b Ngidi    23      15      JP Du   3       0       153.33  
+Wahab Riaz        b Ngidi                      4       4       7       0       0       100.0   
+Sarfaraz Ahmed     not out                     2       2       0       0       0       100.0   
+Haris Sohail      c †de Kock b Ngidi         89      59      95      9       3       150.85  
+Shadab Khan        not out                     1       1       0       0       0       100.0   
+
+Extras                                        12 (lb 6, nb 1, w 5)
+Total                                          308/7 (50.1 Overs, RR:6.15)
+Fall of Wickets: (Fakhar Zaman, 14.5 ov), (Imam-ul-Haq, 20.3 ov), (Mohammad Hafeez, 29.6 ov), (Babar Azam, 41.2 ov), (Imad Wasim, 47.6 ov), (Wahab Riaz, 49.1 ov), (Haris Sohail, 49.5 ov), 
+
+
+BOWLING       O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Markram       4.0     0       21      1       5.25    6       1       0       1       0       
+Imran Tahir   10.0    0       40      2       4.0     25      2       1       1       0       
+Phehlukwayo   8.0     0       46      1       5.75    20      4       1       2       1       
+Morris        9.1     0       61      0       6.65    21      9       0       0       0       
+Rabada        10.0    0       64      0       6.4     24      8       1       1       0       
+Ngidi         9.0     0       64      3       7.11    19      7       2       0       0       
+
+
+
+Innings 2
+BATTING                                                 R       B       M       4s      6s      SR      
+Amla             lbw b Mohammad Amir                    2       3       7       0       0       66.67   
+de Kock          c Imam-ul-Haq b Shadab Khan            47      60      83      3       2       78.33   
+Markram          b Shadab Khan                          7       16      13      0       0       43.75   
+du Plessis       c †Sarfaraz Ahmed b Mohammad Amir    63      79      112     5       0       79.75   
+van der Dussen   c Mohammad Hafeez b Shadab Khan        36      47      71      1       1       76.6    
+Miller           b Shaheen Shah Afridi                  31      37      54      3       0       83.78   
+Morris           b Wahab Riaz                           16      10      16      1       1       160.0   
+Rabada           b Wahab Riaz                           3       7       13      0       0       42.86   
+Ngidi            b Wahab Riaz                           1       6       9       0       0       16.67   
+Imran Tahir       not out                               1       3       0       0       0       33.33   
+Phehlukwayo       not out                               46      32      0       6       0       143.75  
+
+Extras                                                 15 (lb 5, nb 2, w 8)
+Total                                                   268/9 (50.0 Overs, RR:5.36)
+Fall of Wickets: (Amla, 1.1 ov), (de Kock, 19.2 ov), (Markram, 23.1 ov), (du Plessis, 29.3 ov), (van der Dussen, 39.4 ov), (Miller, 40.5 ov), (Morris, 44.2 ov), (Rabada, 46.5 ov), (Ngidi, 48.2 ov), (Guptill, 0.1 ov), (Munro, 0.5 ov), (Taylor, 34.3 ov), (Latham, 41.5 ov), (Williamson, 46.3 ov), (Neesham, 48.1 ov), (Santner, 49.5 ov), (Neesham, 49.6 ov), 
+
+
+BOWLING               O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Mohammad Hafeez       2.0     0       10      0       5.0     4       0       0       1       0       
+Imad Wasim            10.0    0       48      0       4.8     23      4       0       0       0       
+Shaheen Shah Afridi   8.0     0       54      1       6.75    21      6       2       0       0       
+Shadab Khan           10.0    0       49      3       4.9     22      3       1       1       0       
+Wahab Riaz            10.0    0       44      3       4.4     20      2       1       2       0       
+Mohammad Amir         10.0    0       48      2       4.8     26      4       0       1       0       
+
+
+

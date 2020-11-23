@@ -1,0 +1,52 @@
+Innings 1
+BATTING                                                      R       B       M       4s      6s      SR      
+Guptill         b Mohammad Amir                              5       4       5       1       0       125.0   
+Munro           c Haris Sohail b Shaheen Shah Afridi         12      17      37      2       0       70.59   
+Taylor          c †Sarfaraz Ahmed b Shaheen Shah Afridi    3       8       14      0       0       37.5    
+Latham          c †Sarfaraz Ahmed b Shaheen Shah Afridi    1       14      18      0       0       7.14    
+Williamson      c †Sarfaraz Ahmed b Shadab Khan            41      69      114     4       0       59.42   
+de Grandhomme   run out (Mohammad Amir/†Sarfaraz Ahmed)    63      71      96      6       1       88.73   
+Santner          not out                                     5       5       0       0       0       100.0   
+Neesham          not out                                     97      112     0       5       3       86.61   
+
+Extras                                                      9 (b 2, lb 3, w 4)
+Total                                                        236/6 (50.0 Overs, RR:4.72)
+Fall of Wickets: (Guptill, 1.1 ov), (Munro, 6.2 ov), (Taylor, 8.6 ov), (Latham, 12.3 ov), (Williamson, 26.2 ov), (de Grandhomme, 47.4 ov), 
+
+
+BOWLING               O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Mohammad Hafeez       7.0     0       22      0       3.14    22      1       0       0       0       
+Imad Wasim            3.0     0       17      0       5.67    5       1       0       0       0       
+Shadab Khan           10.0    0       43      1       4.3     28      1       2       0       0       
+Shaheen Shah Afridi   10.0    0       28      3       2.8     33      2       0       0       0       
+Mohammad Amir         10.0    0       65      1       6.5     23      9       1       2       0       
+Wahab Riaz            10.0    0       52      1       5.2     23      4       1       2       0       
+
+
+
+Innings 2
+BATTING                                      R       B       M       4s      6s      SR      
+Fakhar Zaman      c Guptill b Boult          9       10      13      2       0       90.0    
+Imam-ul-Haq       c Guptill b Ferguson       19      29      42      3       0       65.52   
+Mohammad Hafeez   c Ferguson b Williamson    32      50      70      5       0       64.0    
+Haris Sohail       not out                   68      76      0       5       2       89.47   
+Babar Azam        run out (Guptill)          101     127     98      11      0       79.53   
+Sarfaraz Ahmed     not out                   5       3       0       1       0       166.67  
+
+Extras                                      15 (lb 4, w 11)
+Total                                        249/4 (49.1 Overs, RR:5.07)
+Fall of Wickets: (Fakhar Zaman, 2.6 ov), (Imam-ul-Haq, 10.2 ov), (Mohammad Hafeez, 24.5 ov), (Babar Azam, 48.3 ov), (Warner, 22.4 ov), (Khawaja, 32.2 ov), (Finch, 35.3 ov), (Maxwell, 38.2 ov), (Smith, 41.5 ov), (Smith, 45.4 ov), (Cummins, 47.1 ov), 
+
+
+BOWLING         O       M       R       W       ECON    0s      4s      6s      WD      NB      
+de Grandhomme   2.0     0       12      0       6.0     5       1       0       0       0       
+Neesham         3.0     0       19      0       6.33    8       3       0       1       0       
+Munro           1.0     0       8       0       8.0     1       1       0       1       0       
+Williamson      8.0     0       38      1       4.75    19      4       0       1       0       
+Santner         10.0    0       38      0       3.8     30      2       1       0       0       
+Boult           10.0    0       48      1       4.8     35      7       1       0       0       
+Henry           7.0     0       25      1       3.57    20      2       0       0       0       
+Ferguson        8.1     0       46      1       5.63    21      7       0       4       0       
+
+
+

@@ -1,0 +1,58 @@
+Innings 1
+BATTING                    R       B       M       4s      6s      SR      
+Finch           not out    81      83              6       4       97.59   
+Smith           not out    9       12              1       0       75.0    
+Maxwell         not out    20      10              2       1       200.0   
+Warner          not out    106     110             11      1       96.36   
+Khawaja         not out    18      16              3       0       112.5   
+Marsh           not out    23      26              2       0       88.46   
+Coulter-Nile    not out    2       3               0       0       66.67   
+Cummins         not out    2       6               0       0       33.33   
+Carey           not out    20      21              2       0       95.24   
+Richardson      not out    1       1       0       0       0       100.0   
+Starc           not out    3       6               0       0       50.0    
+
+Extras                    22 (lb 10, nb 6, w 6)
+Total                      307/10 (49.0 Overs, RR:6.27)
+Fall of Wickets: (Finch, 22.1 ov), (Smith, 28.4 ov), (Maxwell, 33.4 ov), (Warner, 37.5 ov), (Khawaja, 42.1 ov), (Marsh, 44.3 ov), (Coulter-Nile, 46.2 ov), (Cummins, 47.3 ov), (Carey, 48.3 ov), (Starc, 48.6 ov), 
+
+
+BOWLING               O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Shoaib Malik          4.0     0       24      0       6.0     7       1       1       0       2       
+Mohammad Hafeez       7.0     0       60      1       8.57    10      4       4       0       0       
+Shaheen Shah Afridi   10.0    0       67      2       6.7     19      7       1       1       2       
+Wahab Riaz            8.0     0       43      1       5.38    20      5       0       1       0       
+Hasan Ali             10.0    0       62      1       6.2     22      9       0       3       2       
+Mohammad Amir         10.0    0       29      5       2.9     27      1       0       1       0       
+
+
+
+Innings 2
+BATTING                           R       B       M       4s      6s      SR      
+Fakhar Zaman           not out    0       3               0       0       0.0     
+Babar Azam             not out    30      28              7       0       107.14  
+Imam-ul-Haq            not out    53      74              7       0       71.62   
+Mohammad Hafeez        not out    46      49              3       1       93.88   
+Shoaib Malik           not out    0       2               0       0       0.0     
+Asif Ali               not out    5       8               0       0       62.5    
+Hasan Ali              not out    32      15              3       3       213.33  
+Sarfaraz Ahmed         not out    40      48      0       1       0       83.33   
+Wahab Riaz             not out    45      39              2       3       115.38  
+Mohammad Amir          not out    0       2               0       0       0.0     
+Shaheen Shah Afridi    not out    1       6               0       0       16.67   
+
+Extras                           24 (lb 7, nb 1, w 16)
+Total                             276/10 (45.4 Overs, RR:6.08)
+Fall of Wickets: (Fakhar Zaman, 2.1 ov), (Babar Azam, 10.5 ov), (Imam-ul-Haq, 25.1 ov), (Mohammad Hafeez, 26.6 ov), (Shoaib Malik, 27.3 ov), (Asif Ali, 29.6 ov), (Hasan Ali, 33.5 ov), (Wahab Riaz, 44.2 ov), (Mohammad Amir, 44.4 ov), (Shaheen Shah Afridi, 45.4 ov), (Sharma, 22.3 ov), (Dhawan, 36.6 ov), (Pandya, 45.5 ov), (Dhoni, 49.1 ov), (Kohli, 49.5 ov), 
+
+
+BOWLING        O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Finch          2.0     0       11      1       5.5     2       1       0       2       0       
+Cummins        10.0    0       32      3       3.2     33      4       0       0       1       
+Maxwell        7.0     0       57      0       8.14    11      4       3       1       0       
+Coulter-Nile   9.0     0       51      1       5.67    19      2       2       2       0       
+Starc          9.0     0       41      2       4.56    26      6       0       2       0       
+Richardson     8.4     0       60      3       6.92    15      6       2       2       0       
+
+
+

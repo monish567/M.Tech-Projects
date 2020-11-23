@@ -1,0 +1,58 @@
+Innings 1
+BATTING                R       B       M       4s      6s      SR      
+Roy         not out    60      61              8       0       98.36   
+Root        not out    24      25              1       0       96.0    
+Bairstow    not out    106     99              15      1       107.07  
+Buttler     not out    11      12              1       0       91.67   
+Stokes      not out    11      27              0       0       40.74   
+Woakes      not out    4       11              0       0       36.36   
+Morgan      not out    42      40              5       0       105.0   
+Rashid      not out    16      12              1       0       133.33  
+Archer      not out    1       1       0       0       0       100.0   
+Plunkett    not out    15      12      0       1       0       125.0   
+
+Extras                15 (b 4, lb 4, w 7)
+Total                  305/8 (50.0 Overs, RR:6.1)
+Fall of Wickets: (Roy, 18.4 ov), (Root, 30.1 ov), (Bairstow, 31.4 ov), (Buttler, 34.2 ov), (Stokes, 41.6 ov), (Woakes, 44.5 ov), (Morgan, 46.1 ov), (Rashid, 49.3 ov), 
+
+
+BOWLING      O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Grandhomme   1.0     0       11      0       11.0    1       2       0       0       0       
+Santner      10.0    0       63      1       6.3     17      7       0       2       0       
+Neesham      10.0    0       39      2       3.9     25      2       0       2       0       
+Boult        10.0    0       55      2       5.5     22      6       0       1       0       
+Henry        10.0    0       52      2       5.2     24      5       0       2       0       
+Southee      9.0     0       70      1       7.78    17      10      1       0       0       
+
+
+
+Innings 2
+BATTING                     R       B       M       4s      6s      SR      
+Nicholls         not out    0       1               0       0       0.0     
+Guptill          not out    8       16              1       0       50.0    
+Williamson       not out    27      40      0       3       0       67.5    
+Taylor           not out    27      42              2       0       64.29   
+Neesham          not out    19      27              1       0       70.37   
+de Grandhomme    not out    3       13              0       0       23.08   
+Latham           not out    57      65              5       0       87.69   
+Santner          not out    12      30              1       0       40.0    
+Henry            not out    7       13              0       0       53.85   
+Southee          not out    7       16      0       0       0       43.75   
+Boult            not out    4       7               1       0       57.14   
+
+Extras                     30 (b 2, lb 12, nb 5, w 11)
+Total                       201/10 (45.0 Overs, RR:4.47)
+Fall of Wickets: (Nicholls, 0.5 ov), (Guptill, 5.2 ov), (Taylor, 15.1 ov), (Taylor, 16.4 ov), (Neesham, 25.1 ov), (de Grandhomme, 28.1 ov), (Latham, 38.3 ov), (Santner, 39.2 ov), (Henry, 43.4 ov), (Boult, 44.6 ov), (Sharma, 29.2 ov), (Rahul, 32.4 ov), (Kohli, 38.2 ov), (Pandya, 38.4 ov), (Pant, 44.1 ov), (Karthik, 47.2 ov), (Dhoni, 49.3 ov), (Kumar, 49.6 ov), (Mohammed Shami, 49.6 ov), 
+
+
+BOWLING    O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Root       3.0     0       15      0       5.0     4       1       0       0       0       
+Archer     7.0     0       16      1       2.29    25      1       0       1       0       
+Stokes     5.0     0       9       1       1.8     17      0       0       1       0       
+Woakes     8.0     0       43      1       5.38    21      6       0       1       0       
+Plunkett   8.0     0       26      2       3.25    18      1       0       1       0       
+Wood       9.0     0       32      4       3.56    24      2       0       2       0       
+Rashid     5.0     0       30      1       6.0     8       3       0       0       0       
+
+
+

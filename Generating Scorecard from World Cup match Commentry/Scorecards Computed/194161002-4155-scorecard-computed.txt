@@ -1,0 +1,53 @@
+Innings 1
+BATTING                             R       B       M       4s      6s      SR      
+Sharma   c †Carey b Coulter-Nile    57      70      101     3       1       81.43   
+Dhawan   c sub (NM Lyon) b Starc    117     109     NM Lyon) b Starc 117 (16316      0       107.34  
+Pandya   c Finch b Cummins          48      27      41      4       3       177.78  
+Dhoni    c & b Stoinis              27      14      20      3       1       192.86  
+Kohli    c Cummins b Stoinis        82      77      128     4       2       106.49  
+Rahul     not out                   11      3       0       1       1       366.67  
+
+Extras                             10 (lb 3, w 7)
+Total                               352/5 (50.0 Overs, RR:7.04)
+Fall of Wickets: (Sharma, 22.3 ov), (Dhawan, 36.6 ov), (Pandya, 45.5 ov), (Dhoni, 49.1 ov), (Kohli, 49.5 ov), 
+
+
+BOWLING        O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Maxwell        7.0     0       45      0       6.43    12      4       1       0       0       
+Coulter-Nile   10.0    0       62      1       6.2     21      8       1       1       0       
+Zampa          6.0     0       50      0       8.33    5       4       1       0       0       
+Cummins        10.0    0       52      1       5.2     28      5       1       3       0       
+Starc          10.0    0       74      1       7.4     18      4       3       0       0       
+Stoinis        7.0     0       59      2       8.43    8       6       1       3       0       
+
+
+
+Innings 2
+BATTING                                         R       B       M       4s      6s      SR      
+Finch           not out                         36      35      0       3       1       102.86  
+Warner         run out (Jadhav/Pandya)          51      83      60      4       0       61.45   
+Khawaja        b Bumrah                         42      39      48      4       1       107.69  
+Smith          lbw b Kumar                      69      70      115     5       1       98.57   
+Stoinis        b Kumar                          0       2       3       0       0       0.0     
+Maxwell        c sub (RA Jadeja) b Chahal       28      14      RA Jadeja) b Chahal 28 (255       0       200.0   
+Coulter-Nile   c Kohli b Bumrah                 4       9       22      0       0       44.44   
+Cummins        c †Dhoni b Bumrah                8       7       11      1       0       114.29  
+Starc           not out                         3       3       0       0       0       100.0   
+Carey          run out (sub [Shankar]/Kumar)    54      35      12      5       1       154.29  
+Zampa          c sub (RA Jadeja) b Kumar        1       3       RA Jadeja) b Ku0       0       33.33   
+
+Extras                                         26 (b 3, lb 9, nb 5, w 9)
+Total                                           322/10 (50.0 Overs, RR:6.44)
+Fall of Wickets: (Warner, 13.1 ov), (Warner, 24.4 ov), (Khawaja, 36.4 ov), (Smith, 39.4 ov), (Stoinis, 39.6 ov), (Maxwell, 40.4 ov), (Coulter-Nile, 44.5 ov), (Cummins, 46.6 ov), (Carey, 49.1 ov), (Zampa, 49.6 ov), (Hazratullah Zazai, 10.5 ov), (Noor Ali Zadran, 11.1 ov), (Rahmat Shah, 12.3 ov), (Gulbadin Naib, 14.1 ov), (Mohammad Nabi, 23.3 ov), (Najibullah Zadran, 23.6 ov), (Ikram Alikhil, 32.4 ov), (Rashid Khan, 33.4 ov), (Aftab Alam, 35.4 ov), (Hashmatullah Shahidi, 41.1 ov), 
+
+
+BOWLING         O       M       R       W       ECON    0s      4s      6s      WD      NB      
+Jadhav          1.0     0       12      0       12.0    1       1       1       2       0       
+Kuldeep Yadav   9.0     0       55      0       6.11    15      4       1       0       0       
+Chahal          10.0    0       61      2       6.1     15      3       1       1       0       
+Pandya          10.0    0       60      1       6.0     21      5       1       2       5       
+Bumrah          10.0    0       60      3       6.0     24      9       0       1       0       
+Kumar           10.0    0       48      4       4.8     25      5       0       1       0       
+
+
+
